@@ -90,9 +90,9 @@ const App: React.FC = () => {
               <li>Apr 2025 – I presented our work on Data Integration at IMCB 40-year Anniversary Symposium</li>
               <li>Feb 2025 – I gave a talk at IMCB Phd-Stundent Seminar</li>
               <li>Feb 2025 – I gave a poster presentation on our machine learning and data integration tools at <a href="https://medicine.nus.edu.sg/sites/gss/absc.html">11th Annual Biomedical Scientific Congress (ABSC) 2025</a></li>
-              <li>Sep 2024 - I gave a poster presentaiton on our novel high-grade ovarian cancer biomaker discovery at <a herf="https://www.mcponline.org/article/S1535-9476(24)00167-1/fulltext">Benzon Symposium 68 – Integration of Mass Spectrometry-based Proteomics and AI to Revolutionize Personalized Medicine, Copenhagen</a> </li>
+              <li>Sep 2024 - I gave a poster presentaiton on our novel high-grade ovarian cancer biomaker discovery at <a href="https://www.mcponline.org/article/S1535-9476(24)00167-1/fulltext">Benzon Symposium 68 – Integration of Mass Spectrometry-based Proteomics and AI to Revolutionize Personalized Medicine, Copenhagen</a> </li>
               <li>Feb 2024 - I gave a talk at IMCB Phd-Stundent Seminar</li>
-              <li>Sep 2023 - I gave a poster presentation at <a herf="https://www.hupo.org/event-5032167">HUPO World Congress 2023 Busan</a></li>
+              <li>Sep 2023 - I gave a poster presentation at <a href="https://www.hupo.org/event-5032167">HUPO World Congress 2023 Busan</a></li>
             </ul>
           </div>
           <div id="research">
@@ -194,7 +194,7 @@ const App: React.FC = () => {
             <h2 className="font-semibold text-neutral-700 mb-1">Students Mentored</h2>
             <p>Undergraduate students: <a>Khushi Choksi</a>(University of Purdue, Summer 2025), 
             <a href="https://www.linkedin.com/in/lahiru-kumara/"> Lahiru Gamage</a> (University of Moratuwa, FYP 2023-2024, [<a href="https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/ipr2.13219">1</a>, <a href="Melanoma skin cancer classification with explainability">2</a>, <a href="https://www.mdpi.com/2079-9292/13/4/680">3</a>]), 
-            <a herf="https://www.linkedin.com/in/uditha-isuranga/"> Uditha Isuranga</a> (University of Moratuwa, FYP 2023-2024, [<a href="https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/ipr2.13219">1</a>, <a href="Melanoma skin cancer classification with explainability">2</a>, <a href="https://www.mdpi.com/2079-9292/13/4/680">3</a>])</p>
+            <a href="https://www.linkedin.com/in/uditha-isuranga/"> Uditha Isuranga</a> (University of Moratuwa, FYP 2023-2024, [<a href="https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/ipr2.13219">1</a>, <a href="Melanoma skin cancer classification with explainability">2</a>, <a href="https://www.mdpi.com/2079-9292/13/4/680">3</a>])</p>
           </div>
         </section>
       </div>
